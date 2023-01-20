@@ -11,4 +11,4 @@ OOP is based on several key concepts, including:
     4. Abstraction: the ability to focus on the essential features of an object and ignore the rest.
 
 Some of the popular programming languages that support OOP are **Java, C++, Python, C#, and Ruby**. Object-oriented programming is widely used in the development of graphical user interfaces, web applications, and large-scale software systems.
-It's important to note that OOP is not the only programming paradigm and it's not suitable for all problems, and sometimes it might be more appropriate to use functional programming or procedural programming. 
+**It's important to note that OOP is not the only programming paradigm and it's not suitable for all problems, and sometimes it might be more appropriate to use functional programming or procedural programming**.
