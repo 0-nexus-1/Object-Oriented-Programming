@@ -63,6 +63,9 @@ public:
 
 int main()
 {
+    cout << "\n\t\tDate: " << __TIME__ << "\t\tTime: " << __DATE__ << endl
+         << endl;
+
     Engine *engarr[3];
     engarr[0] = new Engine(800);
     engarr[1] = new Engine(1000);
@@ -71,4 +74,5 @@ int main()
     Car *c = new Car(2019, engarr);
 
     c->display();
+    cout << endl;
 }
