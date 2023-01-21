@@ -167,9 +167,7 @@ class Time
 
     int main()
     {
-        cout << "\n\t\tDate: " << __TIME__ << "\t\tTime: " << __DATE__ << endl
-            << endl;
-        
+
     Time ob1;
         Time ob2(10, 20, 30, 'A');
             Time ob3(11, 12, 13);
